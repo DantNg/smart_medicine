@@ -1,0 +1,10 @@
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\bin\Debug\smart_medicine_cabinet.exe.config
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\bin\Debug\smart_medicine_cabinet.exe
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\bin\Debug\smart_medicine_cabinet.pdb
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\obj\Debug\smart_medicine_cabinet.csproj.AssemblyReference.cache
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\obj\Debug\smart_medicine_cabinet.Form1.resources
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\obj\Debug\smart_medicine_cabinet.Properties.Resources.resources
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\obj\Debug\smart_medicine_cabinet.csproj.GenerateResource.cache
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\obj\Debug\smart_medicine_cabinet.csproj.CoreCompileInputs.cache
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\obj\Debug\smart_medicine_cabinet.exe
+D:\OneDrive - vnu.edu.vn\C#\smart_medicine_cabinet\smart_medicine_cabinet\obj\Debug\smart_medicine_cabinet.pdb
